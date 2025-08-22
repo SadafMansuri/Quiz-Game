@@ -1,3 +1,4 @@
+#my mini quize project 
 # Quiz Game in Python
 
 def run_quiz(questions):
@@ -53,3 +54,4 @@ quiz_questions = [
 print("🎮 Welcome to the Python Quiz Game! 🎮")
 run_quiz(quiz_questions)
 print("Thanks for playing!")
+
